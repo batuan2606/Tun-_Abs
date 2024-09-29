@@ -1,6 +1,7 @@
 The password for the next level is stored in a file called - located in the home directory
 
 When you connect to the bandit 1, you do the command 'ls' and you will see the file has the name '-'
+
 ![Screenshot 2024-09-29 163139](https://github.com/user-attachments/assets/8236caaf-6892-4041-864f-79871b2cff0c)
 
 We try to cat this
